@@ -1,6 +1,6 @@
-# Practical IT Security — Books Companion
+# Books Companion
 
-Public companion repository for the **Practical IT Security** book series by Michail Pantelelis, published on [Leanpub](https://leanpub.com).
+Public companion repository for books by Michail Pantelelis, published on [Leanpub](https://leanpub.com).
 
 ## What's Here
 
@@ -28,14 +28,6 @@ companion/
 ```
 
 See the appendix of each book for which companion files are available and how to use them.
-
----
-
-## The Series
-
-A series of practical IT security books for working professionals, with a European context. Books cover SSH, incident response, GDPR compliance, Linux auditing, and vulnerability analysis across C, Ruby, Python, JavaScript, and TLS.
-
-Available on Leanpub — see the author page for current titles.
 
 ---
 
